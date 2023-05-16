@@ -5,7 +5,7 @@ email: mika.vyas@mail.utoronto.ca
 description: My website but better–using a site template designed by HTML5 Up<br />
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: /mikavyas.github.io/
-author: Mika Tarini Byas
+author: Mika Tarini Vyas
 country: Canada
 
 # homepage tiles
@@ -19,12 +19,8 @@ tiles-count: 6
 socials:
   GitHub: https://github.com/andrewbanchich
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  LinkedIn: #ADD
+  Twitter: #ADD
 
 # build settings
 markdown: kramdown
